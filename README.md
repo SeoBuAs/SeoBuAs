@@ -1,5 +1,5 @@
 * * *
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeoBuAs&fontSize=90&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeoBuAs&fontSize=90&fontColor=gray&strokeWidth=1&stroke=FFFFFF)
 * * *
 #### Experiences
 > - LG Aimers 5th / 2024.01.02 ~ 2023.02.26
