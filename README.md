@@ -4,7 +4,8 @@
 #### Experiences
 > - LG Aimers 4th / 2024.01.02 ~ 2023.02.26
 #### Competitions
-> - LG Aimers 4th Hackathon / Public 40th, Private 102th among 800teams
+> - LG Aimers 4th Online Hackathon / Public 40th, Private 102th among 800teams
+> - LG Aimers 5th Online Hackathon / public 4th, Private 3th among 740teams
 * * *
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoBuAs&show_icons=true&theme=radical)
