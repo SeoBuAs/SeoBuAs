@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeoBuAs&fontSize=90&fontColor=gray&strokeWidth=1&stroke=FFFFFF)
 * * *
 #### Experiences
-> - LG Aimers 4th / 2024.01.02 ~ 2023.02.26
+> - LG Aimers 4th / 2024.01.02 ~ 2024.02.26
+> - LG Aimers 5th / 2024.07.02 ~ 2024.08.30
 #### Competitions
 > - LG Aimers 4th Online Hackathon / Public 40th, Private 102th among 800teams
 > - LG Aimers 5th Online Hackathon / public 4th, Private 3th among 740teams
