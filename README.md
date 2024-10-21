@@ -6,7 +6,8 @@
 > - LG Aimers 5th / 2024.07.02 ~ 2024.08.30
 #### Competitions
 > - LG Aimers 4th Online Hackathon / Public 40th, Private 102th among 800teams
-> - LG Aimers 5th Online Hackathon / public 4th, Private 3th among 740teams
+> - LG Aimers 5th Online Hackathon / Public 4th, Private 3th among 740teams
+> - LG Aimers 5th Offline Hackathon / Public 3th, Private 2th among 24teams [finished 3rd overall due to presentation score]
 * * *
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoBuAs&show_icons=true&theme=radical)
