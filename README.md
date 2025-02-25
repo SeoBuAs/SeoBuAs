@@ -1,6 +1,11 @@
 * * *
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeoBuAs&fontSize=90&fontColor=gray&strokeWidth=1&stroke=FFFFFF)
 * * *
+
+Hello, I'm BuAs, a Data Scientist and AI Researcher. I am passionate about tackling various challenges in the world and exploring innovative solutions through artificial intelligence. In my problem-solving process, I rely on persistence, carefully listening to and embracing the perspectives of my colleagues before personally validating their insights. Constantly seeking growth as a Data Scientist and AI Researcher, I eagerly dive into new experiences. Welcome to my GitHub, and feel free to reach out to me at any time—morning, afternoon, or even at midnight.
+
+---
+
 #### Experiences
 > - LG Aimers 4th / 2024.01.02 ~ 2024.02.26
 > - LG Aimers 5th / 2024.07.02 ~ 2024.08.30
