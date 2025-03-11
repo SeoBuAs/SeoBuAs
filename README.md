@@ -1,6 +1,5 @@
-* * *
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeoBuAs&fontSize=90&fontColor=gray&strokeWidth=1&stroke=FFFFFF)
-* * *
 
 # Hi there, I'm BuAs 👋
 
