@@ -11,7 +11,7 @@ Constantly striving to evolve as a Data Scientist and AI Researcher, I dive head
 
 Thanks for stopping by!
 
-
+# About Me
 #### Experiences
 > - LG Aimers 4th / 2024.01.02 ~ 2024.02.26
 > - LG Aimers 5th / 2024.07.02 ~ 2024.08.30
