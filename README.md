@@ -29,7 +29,7 @@ Thanks for stopping by!
 #### Github Stats
 > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoBuAs&show_icons=true&theme=radical)
 #### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
+> ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
 #### Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoBuAs&langs_count=8)
 
