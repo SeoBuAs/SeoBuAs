@@ -20,7 +20,6 @@ Thanks for stopping by!
 #### Competitions
 > - LG Aimers 4th Online Hackathon / Public 40th, Private 102th among 800teams
 > - LG Aimers 5th Online Hackathon / <font color="red">Public 4th, Private 3rd</font> among 740teams
-
 > - LG Aimers 5th Offline Hackathon / **Public 3rd, Private 2nd** among 24teams [finished 3rd overall due to presentation score]
 > - LG Aimers 6th Online Hackathon / **Public 1th, Private 1th** among 794teams
 > - LG Aimers 6th Offline Hackathon / 
