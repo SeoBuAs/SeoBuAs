@@ -26,7 +26,9 @@ Thanks for stopping by!
 #### Projects
 > - a
 #### Papers
-> - a
+> - **Kim, M.-S., Seo, J.-H., & Choi, S.-H. (2025).**  
+>   *Factor Analysis with a Framework for Predicting Musical Residual Seats Using Machine Learning.*  
+>   Journal of Digital Contents Society, 26(3), 739–747.
 
 #### Leetcode Stats
 > ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
