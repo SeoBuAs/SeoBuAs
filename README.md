@@ -21,9 +21,9 @@ Thanks for stopping by!
 > - LG Aimers 5th Offline Hackathon / **Public 3rd, Private 2nd** among 24teams [finished 3rd overall due to presentation score]
 > - LG Aimers 6th Online Hackathon / **Public 1th, Private 1th** among 794teams
 > - LG Aimers 6th Offline Hackathon / Public 8th, Private 13th among 27teams
-#### Projects
 ##### 📊 Tabular Data Projects
 ##### 🖼️ Computer Vision Projects
+> - Based on CCTV footage, an innovative video analysis system was proposed/developed which performs anomaly detection and generates logs using a VLM (Visual Language Model) for the detected segments, enabling intelligent situation awareness and automatic reporting.
 ##### 📝 Natural Language Processing Projects
 > - For machine learning model interpretation, i developed an LLM architecture that explains SHAP values, based on the activities of the 6th LG Aimers.
 
