@@ -22,7 +22,7 @@ Thanks for stopping by!
 > - LG Aimers 6th Online Hackathon / **Public 1th, Private 1th** among 794teams
 > - LG Aimers 6th Offline Hackathon / Public 8th, Private 13th among 27teams
 #### Projects
-> - Build LLM structure about explain shap values based on LG Aimers 6th Hackathon
+> - For machine learning model interpretation, i developed an LLM architecture that explains SHAP values, based on the activities of the 6th LG Aimers.
 #### Papers
 > - **Seo, J.H., Kim, M.S., & Choi, S.H. (2025).**  
 >   *Factor Analysis with a Framework for Predicting Musical Residual Seats Using Machine Learning.*  
