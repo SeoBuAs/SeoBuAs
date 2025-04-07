@@ -41,8 +41,6 @@ Thanks for stopping by!
 > ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
 #### BOJ Tiers
 > [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-#### Github Stats
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoBuAs&show_icons=true&theme=radical)
 #### Most Used Language
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoBuAs&langs_count=8)
 
