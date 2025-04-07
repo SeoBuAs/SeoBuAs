@@ -22,10 +22,11 @@ Thanks for stopping by!
 > - LG Aimers 6th Online Hackathon / **Public 1th, Private 1th** among 794teams
 > - LG Aimers 6th Offline Hackathon / Public 8th, Private 13th among 27teams
 #### Projects
-> - For machine learning model interpretation, i developed an LLM architecture that explains SHAP values, based on the activities of the 6th LG Aimers.
 ##### 📊 Tabular Data Projects
 ##### 🖼️ Computer Vision Projects
 ##### 📝 Natural Language Processing Projects
+> - For machine learning model interpretation, i developed an LLM architecture that explains SHAP values, based on the activities of the 6th LG Aimers.
+
 
 #### Papers
 > - **Seo, J.H., Kim, M.S., & Choi, S.H. (2025).**  
