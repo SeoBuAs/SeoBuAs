@@ -22,7 +22,7 @@ Thanks for stopping by!
 > - LG Aimers 6th Online Hackathon / **Public 1th, Private 1th** among 794teams
 > - LG Aimers 6th Offline Hackathon / Public 8th, Private 13th among 27teams
 > - Hansung Univ. CAPSTONE DESIGN 1st
-> - Hansung Univ. CAPSTONE DESIGN
+> - Hansung Univ. CAPSTONE DESIGN 2nd with 
 ##### 📊 Tabular Data Projects
 > - **[Classification]** Predicting Pregnancy Success in Infertility Patients [with LG Aimers 6th]
 > - **[Classification]** Predicting B2B customers who can be converted into sales customers [with LG Aimers 5th]
