@@ -15,16 +15,16 @@ Thanks for stopping by!
 > - LG Aimers 4th / 2024.01.02 ~ 2024.02.26
 > - LG Aimers 5th / 2024.07.02 ~ 2024.08.30
 > - LG Aimers 6th / 2025.01.02 ~ 2025.02.27
-#### Competitions
+#### ⚡ Competitions
 > - LG Aimers 4th Online Hackathon / Public 40th, Private 102th among 800teams
-> - LG Aimers 5th Online Hackathon / <font color="red">Public 4th, Private 3rd</font> among 740teams
-> - LG Aimers 5th Offline Hackathon / **Public 3rd, Private 2nd** among 24teams [finished 3rd overall due to presentation score]
-> - LG Aimers 6th Online Hackathon / **Public 1th, Private 1th** among 794teams
+> - ⚡ LG Aimers 5th Online Hackathon / <font color="red">Public 4th, Private 3rd</font> among 740teams
+> - ⚡ LG Aimers 5th Offline Hackathon / **Public 3rd, Private 2nd** among 24teams [finished 3rd overall due to presentation score]
+> - ⚡ LG Aimers 6th Online Hackathon / **Public 1th, Private 1th** among 794teams
 > - LG Aimers 6th Offline Hackathon / Public 8th, Private 13th among 27teams
-#### Awards
-> - LG Aimers 5th Offline Hackathon 3rd
-> - Hansung Univ. CAPSTONE DESIGN 1st Place: Zero-Shot Voice Cloning for Cross-Language Content Delivery
-> - Hansung Univ. CAPSTONE DESIGN 2nd Place: VLM-based tip calculator to improve customer complaints
+#### 🏆 Awards
+> - LG Aimers 5th Offline Hackathon 3rd 🏆
+> - Hansung Univ. CAPSTONE DESIGN 1st Place: Zero-Shot Voice Cloning for Cross-Language Content Delivery 🏆
+> - Hansung Univ. CAPSTONE DESIGN 2nd Place: VLM-based tip calculator to improve customer complaints 🏆
 ##### 📊 Tabular Data Projects
 > - **[Classification]** Predicting Pregnancy Success in Infertility Patients [with LG Aimers 6th]
 > - **[Classification]** Predicting B2B customers who can be converted into sales customers [with LG Aimers 5th]
