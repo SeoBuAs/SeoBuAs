@@ -1,19 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeoBuAs&fontSize=90&fontColor=gray&strokeWidth=1&stroke=FFFFFF)
 
-# Hi there, I'm BuAs 👋
-
-**Data Scientist & AI Researcher**
-
-I’m passionate about tackling diverse challenges and exploring innovative solutions through artificial intelligence. My approach is driven by persistence—I carefully listen to and embrace my colleagues' perspectives, then validate their insights through hands-on analysis.
-
-Constantly striving to evolve as a Data Scientist and AI Researcher, I dive headfirst into every new opportunity. Welcome to my GitHub—feel free to reach out anytime, whether it's morning, afternoon, or even midnight.
-
-Thanks for stopping by!
-
-
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeoBuAs&fontSize=90&fontColor=gray&strokeWidth=1&stroke=FFFFFF)
-
 <div align="center">
 
 # Hi there, I'm BuAs 👋
