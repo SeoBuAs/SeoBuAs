@@ -10,6 +10,39 @@ Constantly striving to evolve as a Data Scientist and AI Researcher, I dive head
 
 Thanks for stopping by!
 
+
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeoBuAs&fontSize=90&fontColor=gray&strokeWidth=1&stroke=FFFFFF)
+
+<div align="center">
+
+# Hi there, I'm BuAs 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Researcher;Passionate+about+AI+Innovation;Always+Ready+to+Explore+New+Challenges)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+> 💡 **Data Scientist & AI Researcher**  
+> I'm passionate about tackling diverse challenges and exploring innovative solutions through artificial intelligence. My approach is driven by persistence—I carefully listen to and embrace my colleagues' perspectives, then validate their insights through hands-on analysis.
+
+> 🎯 **Mission**  
+> Constantly striving to evolve as a Data Scientist and AI Researcher, I dive headfirst into every new opportunity. Welcome to my GitHub—feel free to reach out anytime, whether it's morning, afternoon, or even midnight.
+
+<div align="center">
+
+**Thanks for stopping by!** 🌟
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+
+</div>
+
+
 # About Me
 #### Experiences
 > - LG Aimers 4th / 2024.01.02 ~ 2024.02.26
