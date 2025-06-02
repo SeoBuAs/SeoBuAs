@@ -41,13 +41,6 @@ Thanks for stopping by!
 >   *Factor Analysis with a Framework for Predicting Musical Residual Seats Using Machine Learning.*  
 >   Journal of Digital Contents Society, 26(3), 739–747.
 
-#### Leetcode Stats
-> ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
-#### BOJ Tiers
-> [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-#### Most Used Language
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoBuAs&langs_count=8)
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
