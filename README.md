@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi there, I'm BuAs 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Researcher;Passionate+about+AI+Innovation;Always+Ready+to+Explore+New+Challenges)](https://git.io/typing-svg)
 
 </div>
