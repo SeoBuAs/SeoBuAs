@@ -37,14 +37,13 @@
 > - ⚡ LG Aimers 6th Online Hackathon / **Public 1th, Private 1th** among 794teams
 > - LG Aimers 6th Offline Hackathon / Public 8th, Private 13th among 27teams
 #### 🏆 Awards
-> - 🏆 LG Aimers 5th Offline Hackathon 3rd 
+> - 🏆 LG Aimers 5th Offline Hackathon 3rd: Predicting Pregnancy Success in Infertility Patients
 > - 🏆 Hansung Univ. CAPSTONE DESIGN 1st Place: Zero-Shot Voice Cloning for Cross-Language Content Delivery
 > - 🏆 Hansung Univ. CAPSTONE DESIGN 2nd Place: VLM-based tip calculator to improve customer complaints
 ##### 📊 Tabular Data Projects
 > - **[Classification]** Predicting Pregnancy Success in Infertility Patients [with LG Aimers 6th]
 > - **[Classification]** Predicting B2B customers who can be converted into sales customers [with LG Aimers 5th]
 > - **[Classification / Abnormality Detection]** Display Product Abnormality Detection [with LG Aimers 4th]
-
 ##### 🖼️ Computer Vision Projects
 > - **[Abnormaly Detection / VLM]** Based on CCTV footage, an innovative video analysis system was proposed/developed which performs anomaly detection and generates logs using a VLM (Visual Language Model) for the detected segments, enabling intelligent situation awareness and automatic reporting.
 ##### 📝 Natural Language Processing Projects
