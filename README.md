@@ -42,16 +42,6 @@
 > - 🏆 Hansung Univ. CAPSTONE DESIGN 2nd Place: VLM-based tip calculator to improve customer complaints
 > - 🏆 Hansung Univ. CAPSTONE DESIGN 1st Place: Zero-Shot Voice Cloning for Cross-Language Content Delivery
 > - 🏆 LG Aimers 5th Offline Hackathon 3rd: Predicting Pregnancy Success in Infertility Patients
-##### 📊 Tabular Data Projects
-> - **[Classification]** Predicting Pregnancy Success in Infertility Patients [with LG Aimers 6th]
-> - **[Classification]** Predicting B2B customers who can be converted into sales customers [with LG Aimers 5th]
-> - **[Classification / Abnormality Detection]** Display Product Abnormality Detection [with LG Aimers 4th]
-##### 🖼️ Computer Vision Projects
-> - **[Abnormaly Detection / VLM]** Based on CCTV footage, an innovative video analysis system was proposed/developed which performs anomaly detection and generates logs using a VLM (Visual Language Model) for the detected segments, enabling intelligent situation awareness and automatic reporting.
-##### 📝 Natural Language Processing Projects
-> - **[Agent / RAG / Prompt Engineering]** For machine learning model interpretation, i developed an LLM architecture that explains SHAP values, based on the activities of the 6th LG Aimers.
-
-
 #### Papers
 > - **Seo, J.H., Kim, M.S., & Choi, S.H. (2025).**  
 >   *Factor Analysis with a Framework for Predicting Musical Residual Seats Using Machine Learning.*  
