@@ -27,6 +27,8 @@
 
 # About Me
 #### Experiences
+> - Undergraduate Researcher in Visual Intelligence Lab (Hansung Univ.) / 2025.02.01 ~ 2025.11.20
+> - Undergraduate Researcher in Prof. Seoung-Ho Choi's Lab (Hansung Univ.) / 2024.09.12 ~ 2025.10.28
 > - LG Aimers 6th / 2025.01.02 ~ 2025.02.27
 > - LG Aimers 5th / 2024.07.02 ~ 2024.08.30
 > - LG Aimers 4th / 2024.01.02 ~ 2024.02.26
