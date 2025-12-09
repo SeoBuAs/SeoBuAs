@@ -45,7 +45,7 @@
 > - 🏆 Hansung Univ. CAPSTONE DESIGN 1st Place: Zero-Shot Voice Cloning for Cross-Language Content Delivery
 > - 🏆 LG Aimers 5th Offline Hackathon 3rd: Predicting Pregnancy Success in Infertility Patients
 #### Papers
-> - **Seo, J.H., Kim, M.S., & Choi, S.H. (2025).**  
+> - **Kim, M.S., Seo, J.H., & Choi, S.H. (2025).**  
 >   *Factor Analysis with a Framework for Predicting Musical Residual Seats Using Machine Learning.*  
 >   Journal of Digital Contents Society, 26(3), 739–747.
 
